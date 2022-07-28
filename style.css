@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(162, 196, 235);
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+a {
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar a {
+    display: block;
+    color: rgb(19, 53, 104);
+    text-align: center;
+    padding: 14px 16px;
+    font-weight: normal;
+}
+
+.lasagna {
+    background-color: rgb(243, 243, 200);
+    color: rgb(189, 39, 39);
+}
+
+.lasagna h1 {
+    color: rgb(87, 54, 22);
+}
+
+.hot-water {
+    background-color: aqua;
+    color: darkblue;
+}
+
+.buttered-toast {
+    background-color: bisque;
+    color: sienna;
+}
